@@ -16,3 +16,17 @@ _My professional goal is to become a front-end developer. To achieve this goal, 
 * _HTML, CSS, JS, Git/GitHub_
 
 ***
+
+### Сode example:
+```      
+function multiply(a, b){
+    return(a * b)
+}
+```    
+***
+
+### Work experience:
+
+_I have a educational project:[Travel](https://mishakozarev.github.io/Travel/)_
+
+***
