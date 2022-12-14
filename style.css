@@ -45,7 +45,9 @@ a{
     justify-content: space-between;
 
 }
-.heder_nav_item {
+.heder_nav_item a:hover{
+    color: lightblue;
+    font-size: 110%;
 }
 .header_nav_link {
     font-family: 'Montserrat', sans-serif;
@@ -114,6 +116,10 @@ a{
 .contacts a {
     color: white;
 }
+.contacts a:hover{
+    color: lightblue;
+    /* font-size: 120%; */
+}
 .skills {
     margin-bottom: 54px;
 }
@@ -149,7 +155,7 @@ a{
 
 /*START SECTION RIGHT*/
 .info{
-    margin: 125px 80px 145px 60px
+    margin: 125px 80px 145px 60px;
 }
 .info h1{
     font-size: 50px;
@@ -246,14 +252,6 @@ a{
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-.footer_logo_github {
-}
-.footer_date {
-    color: white;
-    font-size: 25px;
-}
-.footer_logo_rsschoole {
 }
 /*END FOOTER*/
 
