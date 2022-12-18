@@ -47,7 +47,6 @@ a{
 }
 .heder_nav_item a:hover{
     color: lightblue;
-    font-size: 110%;
 }
 .header_nav_link {
     font-family: 'Montserrat', sans-serif;
